@@ -21,9 +21,6 @@ function is_active($p1, $p2) {
               <li <? is_active($page, "schedule"); ?>><a href="schedule.php">Schedule</a></li>
               <li <? is_active($page, "reading"); ?>><a href="reading.php">Reading</a></li>
               <li <? is_active($page, "resources"); ?>><a href="resources.php">Resources</a></li>
-              <li <? is_active($page, "assignment"); ?>><a href="assignment.php">Assignment</a></li>
-              <li <? is_active($page, "projects"); ?>><a href="projects.php">Projects</a></li>
-              <li <? is_active($page, "policies"); ?>><a href="policies.php">Policies</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>

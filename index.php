@@ -10,9 +10,9 @@ include "data.php";
         <h4>Summer 2013</h4>
         <p>Machine Learning is that area of Artificial Intelligence that is concerned with computational artifacts that modify and improve their performance through experience. The area is concerned with issues both theoretical and practical. We will cover a variety of topics, including: statistical supervised and unsupervised learning methods, randomized search algorithms, Bayesian learning methods, and reinforcement learning. The course also covers theoretical concepts such as inductive bias, the PAC and Mistake-bound learning frameworks, minimum description length principle, and Ockham's Razor. In order to ground these methods the course includes some programming and involvement in a number of projects.</p>
         <h4>Instructor</h4>
-        <p>Pushkar Kolhe<br />271A, College of Computing Building</p>
+        <p>Pushkar Kolhe, Jonathan Scholz<br />271A, College of Computing Building</p>
         <p>Office Hours: Wed, Fri 3-4 pm</p>
-        <p><a href="https://piazza.com/class#spring2013/cs4641">Piazza</a></p>
+        <p>Contact: pushkar@gatech.edu, jkscholz@gatech.edu, cs4641@cc.gatech.edu</p>
         <h4>Lectures</h4>
         <p>Klaus 1443 Tue, Thur 12-1:45 pm</p>
         <h4>Objectives</h4>

@@ -49,12 +49,6 @@ $software_list = array (
 );
 
 $other_list = array (
-    "https://piazza.com/class#spring2013/cs4641" => array (
-        "Piazza" => "For discussions"
-    ),
-    "http://www.kaggle.com/" => array (
-        "Kaggle" => "Competition website for Assignment 1"
-    ),
     "http://archive.ics.uci.edu/ml/" => array (
         "UCI Machine Learning Repository" => "An online repository of data sets that can be used for machine learning experiments",
     ),
