@@ -1,12 +1,6 @@
 <?php
 
 $reading_list = array (
-    "Information Theory" => array (
-        "A Gentle Introduction to Information Theory" => "link1",
-    ),
-    "Reinforcement Learning" => array (
-        "Making RL practical" => "link4",
-    )
 );
 
 $textbook_req_list = array (
@@ -21,9 +15,6 @@ $textbook_req_list = array (
 $textbook_opt_list = array (
     "http://www.stat.cmu.edu/~larry/all-of-statistics/" => array (
         "Larry Wasserman, All of Statistics. Springer, 2010." => "",
-    ),
-    "http://research.microsoft.com/en-us/um/people/cmbishop/prml/" => array (
-        "Christopher Bishop, Pattern Recognition and Machine Learning. Springer, 2006." => "",
     ),
     "http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html" => array (
         "Richard Sutton and Andrew Barto, Reinforcement Learning: An introduction. MIT Press, 1998." => "",

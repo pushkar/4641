@@ -13,9 +13,11 @@ include "data.php";
 <p>Optional Text:</p>
 <?php list_other($textbook_opt_list); ?>
 
+<!--
 <h4>Reading List</h4>
 <?php list_reading($reading_list); ?>
 </div>
+-->
 
 <?
 include "footer.php";
