@@ -5,7 +5,13 @@ function is_active($p1, $p2) {
     } 
 }
 ?>
-
+<?php
+$menu = TRUE;
+if(isset($_GET['nomenu'])) {
+   $menu = FALSE;
+}
+if($menu) {
+?>
     <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container-fluid">
@@ -26,3 +32,7 @@ function is_active($p1, $p2) {
         </div>
       </div>
     </div>
+    
+<?php
+}
+?>
