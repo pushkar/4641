@@ -24,6 +24,7 @@ if($menu) {
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li <? is_active($page, "home"); ?>><a href="index.php">Home</a></li>
+              <li><a href="http://piazza.com/gatech/summer2013/cs4641/home">Piazza</a></li>
               <li <? is_active($page, "schedule"); ?>><a href="schedule.php">Schedule</a></li>
               <li <? is_active($page, "reading"); ?>><a href="reading.php">Reading</a></li>
               <li <? is_active($page, "resources"); ?>><a href="resources.php">Resources</a></li>

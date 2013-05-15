@@ -12,7 +12,7 @@ include "data.php";
         <h4>Instructor</h4>
         <p>Pushkar Kolhe, Jonathan Scholz<br />271A, College of Computing Building</p>
         <p>Office Hours: Wed, Fri 3-4 pm</p>
-        <p>Contact: pushkar@gatech.edu, jkscholz@gatech.edu, cs4641@cc.gatech.edu (preferred, not working yet*)</p>
+        <p>Contact: pushkar@gatech.edu, jkscholz@gatech.edu, cs4641@cc.gatech.edu (preferred)</p>
         <h4>Lectures</h4>
         <p>Klaus 1443 Tue, Thur 12-1:45 pm</p>
         <h4>Objectives</h4>
@@ -32,7 +32,7 @@ include "data.php";
         <ul>
         <li><b>Assignments:</b> You will have three assignments which will help you to understand how each algorithm that we learn can assist you to analyze data. The last assignment will be on Kaggle where you will compete with your classmates on a data challenge.</li>
         <li><b>Group Projects:</b> You will use the project to pursue a topic of your interest in Machine Learning. If you can't figure out a cool project, I will get you started on a seriously cool project.</li>
-        <li><b>Midterm and Final Exam:</b> These will be closed book exams. They will be short questions, more like puzzles, which will somehow be fun, I assure you.</li>
+        <li><b>Midterm and Final Exam:</b> These will be closed book exams.</li>
         </ul>
         <p><b>Numbers</b>: 
         <br />Assignments 50%

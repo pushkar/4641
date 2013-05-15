@@ -13,6 +13,11 @@ include "data.php";
 <p>Optional Text:</p>
 <?php list_other($textbook_opt_list); ?>
 
+<br />
+<h4>Interesting Videos/Applications</h4>
+<?php list_other($app_list); ?>
+</div>
+
 <!--
 <h4>Reading List</h4>
 <?php list_reading($reading_list); ?>

@@ -39,6 +39,25 @@ $software_list = array (
     )
 );
 
+$app_list = array (
+    "http://www.youtube.com/watch?v=jQXPy9rsaAA" => array (
+        "Robosoccer." => "",
+    ),
+    "http://make3d.cs.cornell.edu/" => array (
+        "Make3D - Convert your still image into 3D model." => "",
+    ),
+    "http://heli.stanford.edu/" => array (
+        "Autonomous Helicopter." => "",
+    ),
+    "http://www.youtube.com/watch?v=SH3bADiB7uQ" => array (
+        "Learning to play ping pong." => "",
+    ),
+    "http://research.ics.aalto.fi/ica/cocktail/cocktail_en.cgi" => array (
+        "Cocktail Party Demo." => "",
+    )
+);
+
+
 $other_list = array (
     "http://archive.ics.uci.edu/ml/" => array (
         "UCI Machine Learning Repository" => "An online repository of data sets that can be used for machine learning experiments",
