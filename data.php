@@ -39,7 +39,13 @@ $software_list = array (
     ),
     "http://www.mathworks.com/products/neural-network/examples.html" => array (
         "MATLAB NN Toolbox" => "The toolbox supports supervised learning with feedforward, radial basis, and dynamic networks and unsupervised learning with self-organizing maps and competitive layers.",
-    )
+    ),
+    "http://www.cs.ubc.ca/~murphyk/Software/MDP/mdp.html" => array (
+        "Murphy's MDP Toolbox for Matlab" => "",
+    ),
+    "http://www.cc.gatech.edu/~dellaert/FrankDellaert/Software.html" => array (
+        "MATLAB Clustering Package" => "By <a href=\"http://www.cc.gatech.edu/~dellaert/FrankDellaert/Frank_Dellaert/Frank_Dellaert.html\">Frank Dellaert</a>",
+    ),
 );
 
 $app_list = array (
