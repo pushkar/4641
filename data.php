@@ -36,6 +36,9 @@ $software_list = array (
     ),
     "http://pybrain.org/" => array (
         "pybrain" => "A popular python library for artifical neural networks",
+    ),
+    "http://www.mathworks.com/products/neural-network/examples.html" => array (
+        "MATLAB NN Toolbox" => "The toolbox supports supervised learning with feedforward, radial basis, and dynamic networks and unsupervised learning with self-organizing maps and competitive layers.",
     )
 );
 
@@ -54,6 +57,9 @@ $app_list = array (
     ),
     "http://research.ics.aalto.fi/ica/cocktail/cocktail_en.cgi" => array (
         "Cocktail Party Demo." => "",
+    ),
+    "http://www.youtube.com/watch?v=DleXA5ADG78" => array (
+        "Brains, Sex, and Machine Learning" => "Geoffrey Hinton <a href=\"http://yann.lecun.com/ex/fun/\">(facts)</a> in GoogleTechTalks.",
     )
 );
 

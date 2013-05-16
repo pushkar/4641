@@ -19,7 +19,7 @@ include "data.php";
               <li>Mitchell Ch 1</li>
               </ul></td>
               </tr>
-              <tr><td>May 16</td><td>Neural Networks, Instance Based Learning
+              <tr><td>May 16</td><td>Neural Networks, Instance Based Learning, Addressing Overfitting
               <ul>
               <li>Mitchell Ch 4, 8</li>
               </ul></td></tr>
@@ -28,7 +28,7 @@ include "data.php";
               <li>Alpaydin Ch 13</li>
               </ul></td></tr>
               <tr><td>May 23</td><td>Boosting, Ensemble Learning</td></tr>
-              <tr><td>May 28</td><td>Addressing Overfitting and Information Theory</td></tr>
+              <tr><td>May 28</td><td>Information Theory, Regression techniques</td></tr>
               <tr><td>May 30</td><td>Computational Learning Theory</td></tr>
               <tr><td>Jun 4</td><td>Bayesian Learning <small>(Assignment 1 due on Jun 3)</small></td></tr>
               <tr><td>Jun 6</td><td>Sampling and Bayesian Inference</td></tr>

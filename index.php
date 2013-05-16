@@ -12,13 +12,13 @@ include "data.php";
         <h4>Instructor</h4>
         <p>Pushkar Kolhe, Jonathan Scholz<br />271A, College of Computing Building</p>
         <p>Office Hours: Wed, Fri 3-4 pm</p>
-        <p>Contact: pushkar@gatech.edu, jkscholz@gatech.edu, cs4641@cc.gatech.edu (preferred)</p>
+        <p>Contact: pushkar@gatech.edu, jkscholz@gatech.edu, cs4641@cc.gatech.edu (to reach both instructors)</p>
         <h4>Lectures</h4>
         <p>Klaus 1443 Tue, Thur 12-1:45 pm</p>
         <h4>Objectives</h4>
         <p>These are the primary objectives of this course:</p>
         <ul>
-          <li>To understand how to think like a data scientist.</li>
+          <li>To learn how to think like a data scientist.</li>
           <li>To build intelligent applications that analyze and predict data.</li>
           <li>To develop the basic skills necessary to pursue research in ML.</li>
         </ul>
