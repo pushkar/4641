@@ -12,40 +12,109 @@ include "data.php";
               <tr><th>Date</th><th>Topic</th></tr>
               </thead>
               <tbody>
-              <tr><td>May 14</td><td>Overview, Decision Trees<br />
+              
+              <tr><td>May 14</td><td>Overview, Decision Trees
               <ul>
               <li><a href="http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf">The Discipline of Machine Learning, Tom Mitchell</a></li>
               <li>Alpaydin Ch 1, 2, 9</li>
               <li>Mitchell Ch 1</li>
-              </ul></td>
-              </tr>
-              <tr><td>May 16</td><td>Neural Networks, Instance Based Learning, Addressing Overfitting
+              </ul>
+              </td></tr>
+              
+              <tr><td>May 16</td><td>Neural Networks, Instance Based Learning
               <ul>
               <li>Mitchell Ch 4, 8</li>
-              </ul></td></tr>
+              </ul>
+              </td></tr>
+              
               <tr><td>May 21</td><td>Kernels and Support Vector Machines
               <ul>
               <li>Alpaydin Ch 13</li>
-              </ul></td></tr>
-              <tr><td>May 23</td><td>Boosting, Ensemble Learning</td></tr>
-              <tr><td>May 28</td><td>Information Theory, Regression techniques</td></tr>
-              <tr><td>May 30</td><td>Computational Learning Theory</td></tr>
-              <tr><td>Jun 4</td><td>Bayesian Learning <small>(Assignment 1 due on Jun 3)</small></td></tr>
+              </ul>
+              </td></tr>
+              
+              <tr><td>May 23</td><td>Boosting, Ensemble Learning
+              <ul>
+              <li><a href="downloads/boosting.ps">Schapire's Introduction</a></li>
+              <li><a href="downloads/adaboost_matas.pdf">Jiri Matas and Jan Sochman's Slides</a></li>
+              </ul>
+              </td></tr>
+              
+              <tr><td>May 28</td><td>Information Theory, Regression techniques
+              <ul>
+              <li><a href="downloads/InfoTheory.fm.pdf">Information Theory</a></li>
+              <li><a href="downloads/gentle_intro_to_information_theory.pdf">An Introduction to Information Theory and Entropy</li>
+              </ul>
+              </td></tr>
+              
+              <tr><td>May 30</td><td>Computational Learning Theory, Addressing Overfitting
+              <ul>
+              <li>Mitchell Ch 5, 7</li>
+              </ul>
+              </td></tr>
+              
+              <tr><td>Jun 4</td><td>Bayesian Learning <small>(Assignment 1 due on Jun 3)</small>
+              <ul>
+              <li>Mitchell Ch 6</li>
+              </ul>
+              </td></tr>
+              
               <tr><td>Jun 6</td><td>Sampling and Bayesian Inference</td></tr>
+              
               <tr><td>Jun 11</td><td>Midterm</td></tr>
+              
               <tr><td>Jun 13</td><td>Midterm Review <small>(Drop Day on Jun 14)</small></td></tr>
-              <tr><td>Jun 18</td><td>Randomized Optimization</td></tr>
-              <tr><td>Jun 20</td><td>Clustering</td></tr>
-              <tr><td>Jun 25</td><td>EM and the Impossibility results</td></tr>
+              
+              <tr><td>Jun 18</td><td>Randomized Optimization
+              <ul>
+              <li>Mitchell Ch 9</li>
+              </ul>
+              </td></tr>
+              
+              <tr><td>Jun 20</td><td>Clustering
+              <ul>
+              <li>Alpaydin Ch 7</li>
+              </ul>
+              </td></tr>
+              
+              <tr><td>Jun 25</td><td>EM and the Impossibility results
+              <ul>
+              <li><a href="http://www.cc.gatech.edu/~dellaert/em-paper.pdf">Intuitive Explanation of EM</a></li>
+              <li><a href="downloads/em.pdf">Stastical View of EM</a></li>
+              </ul>
+              </td></tr>
+              
               <tr><td>Jun 27</td><td>Feature selection</td></tr>
+              
               <tr><td>Jul 2</td><td>Feature Transformation <small>(Assignment 2 due on July 2)</small></td></tr>
+              
               <tr><td>Jul 4</td><td>Official School Holiday</td></tr>
+              
               <tr><td>Jul 9</td><td>Markov Decision Processes</td></tr>
-              <tr><td>Jul 11</td><td>Reinforcement Learning</td></tr>
-              <tr><td>Jul 16</td><td>Reinforcement Learning</td></tr>
-              <tr><td>Jul 18</td><td>Game Theory</td></tr>
+              
+              <tr><td>Jul 11</td><td>Reinforcement Learning
+              <ul>
+              <li><a href="downloads/kaelbling96reinforcement.pdf">Reinforcement Learning: A Survey</a></li>
+              <li><a href="http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html">Sutton and Barto</a> Ch 1-6</li>
+              </ul>
+              </td></tr>
+              
+              <tr><td>Jul 16</td><td>Reinforcement Learning
+              <ul>
+              <li><a href="downloads/Monte-Carlo_Tree_Search_-_A_New_Framework_for_Game_AI.pdf">Monte Carlo Tree Search</a></li>
+              </ul>
+              </td></tr>
+              
+              <tr><td>Jul 18</td><td>Game Theory
+              <ul>
+              <li>Andrew Moore's slides <a href="http://www.autonlab.org/tutorials/gametheory.html">Zero-Sum</a>, <a href="http://www.autonlab.org/tutorials/nonzerosum.html">Non-zero-sum</a></li>
+              </ul>
+              </td></tr>
+              
               <tr><td>Jul 23</td><td>Project Presentations</td></tr>
+              
               <tr><td>Jul 26</td><td>Project Presentations <small>(Projects due on July 26)</small></td></tr>
+              
               <tr><td>Jul 30</td><td>Finals</td></tr>
               </tbody>
             </table>          
