@@ -66,8 +66,17 @@ $app_list = array (
 
 $other_list = array (
     "http://archive.ics.uci.edu/ml/" => array (
-        "UCI Machine Learning Repository" => "An online repository of data sets that can be used for machine learning experiments",
+        "UCI Machine Learning Repository" => "An online repository of data sets that can be used for machine learning experiments.",
     ),
+    "http://snap.stanford.edu/data/" => array (
+        "Stanford Large Network Dataset" => "Dataset of large social and information networks.",
+    ),
+    "http://www.cvlibs.net/datasets/kitti/index.php" => array (
+        "Vision Benchmark Suite" => "Autonomous car dataset",
+    ),
+    "http://kevinchai.net/datasets" => array (
+        "Other datasets" => "",
+    )
 );
 
 
