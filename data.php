@@ -1,6 +1,29 @@
 <?php
 
-$reading_list = array (
+$reading_list = array ( 
+    "Linear Algebra" => array (
+        "Linear Algebra and Eigenproblems" => "downloads/Eigenproblems.fm.pdf",
+    ),
+    "Support Vector Machines" => array (
+        "An ICML tutorial on SVMs" => "http://www.support-vector.net/icml-tutorial.pdf",
+        "Christopher Burges tutorial on SVMs for pattern recognition" => "http://research.microsoft.com/pubs/67119/svmtutorial.pdf",
+        "Scholkopf's NIPS tutorial slides on SVMs and kernel methods" => "downloads/svm-scholkopf.ps",
+    ),
+    "Deep Learning" => array (
+        "Learning Deep Architectures for AI" => "downloads/learning_deep_architectures.pdf",
+        "Representation Learning" => "downloads/representation_learning.pdf",
+    ),
+    "Boosting" => array (
+        "Schapire's Introduction" => "downloads/boosting.ps",
+        "Jiri Matas and Jan Sochman's Slides" => "downloads/adaboost_matas.pdf",
+    ),
+    "Information Theory" => array (
+        "Charles Isbell's Note on Information Theory" => "downloads/InfoTheory.fm.pdf",
+        "An Introduction to Information Theory and Entropy" => "downloads/gentle_intro_to_information_theory.pdf",
+    ),
+    "Optimization" => array (
+        "No Free Lunch Theoreom" => "downloads/nfl-optimization-explanation.pdf",
+    ),
 );
 
 $textbook_req_list = array (

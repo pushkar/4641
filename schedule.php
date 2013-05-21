@@ -33,16 +33,17 @@ include "data.php";
               </ul>
               </td></tr>
               
-              <tr><td>May 23</td><td>Boosting, Ensemble Learning
+              <tr><td>May 23</td><td>Boosting, Ensemble Learning, Design and Analysis of Experiments
               <ul>
               <li><a href="downloads/boosting.ps">Schapire's Introduction</a></li>
               <li><a href="downloads/adaboost_matas.pdf">Jiri Matas and Jan Sochman's Slides</a></li>
+              <li>Alpaydin Ch 19</li>
               </ul>
               </td></tr>
               
               <tr><td>May 28</td><td>Information Theory, Regression techniques
               <ul>
-              <li><a href="downloads/InfoTheory.fm.pdf">Information Theory</a></li>
+              <li><a href="downloads/InfoTheory.fm.pdf">Charles Isbell's Note on Information Theory</a></li>
               <li><a href="downloads/gentle_intro_to_information_theory.pdf">An Introduction to Information Theory and Entropy</li>
               </ul>
               </td></tr>

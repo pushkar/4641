@@ -16,13 +16,11 @@ include "data.php";
 <br />
 <h4>Interesting Videos/Applications</h4>
 <?php list_other($app_list); ?>
-</div>
 
-<!--
+<br />
 <h4>Reading List</h4>
 <?php list_reading($reading_list); ?>
 </div>
--->
 
 <?
 include "footer.php";

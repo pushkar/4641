@@ -35,6 +35,10 @@ include "data.php";
 <p><b>k-Nearest Neighbors.</b> You should implement kNN. Use different values of k.</p>
 <hr />
 
+<h4>Reading</h4>
+<p>You can read through your class notes and texbooks. Apart from that read Alpaydin Ch 19.</p>
+<hr />
+
 <h4>What to Turn In</h4>
 
 <p>You must submit via tsquare a tar or zip file named yourgtaccount.{zip,tar,tar.gz} that contains a single folder or directory named yourgtaccount. That directory in turn contains:</p>
