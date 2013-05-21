@@ -53,13 +53,14 @@ include "data.php";
               </ul>
               </td></tr>
               
-              <tr><td>Jun 4</td><td>Bayesian Learning <small>(Assignment 1 due on Jun 3)</small>
+              <tr><td>Jun 4</td><td>Bayesian Learning
               <ul>
               <li>Mitchell Ch 6</li>
               </ul>
               </td></tr>
               
               <tr><td>Jun 6</td><td>Sampling and Bayesian Inference</td></tr>
+              <tr><td>Jun 7</td><td><small><a href="assignment1.php">Assignment 1 due</a></small></td></tr>
               
               <tr><td>Jun 11</td><td>Midterm</td></tr>
               
@@ -86,7 +87,8 @@ include "data.php";
               
               <tr><td>Jun 27</td><td>Feature selection</td></tr>
               
-              <tr><td>Jul 2</td><td>Feature Transformation <small>(Assignment 2 due on July 2)</small></td></tr>
+              <tr><td>Jul 2</td><td>Feature Transformation</td></tr>
+              <tr><td>Jul 3</td><td><small>Assignment 2 due</small></td></tr>
               
               <tr><td>Jul 4</td><td>Official School Holiday</td></tr>
               

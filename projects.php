@@ -34,6 +34,11 @@ include "data.php";
 <b>Quantified Self and Data Analysis</b>
 <p>Use any of the many available quantified self devices, record dataset and try to make sense out of it. You will find many such devices to gather the data you are interested in. You can use your phone to track your runs, bike rides and devices like fitbit, ecg monitors and so on. I am especially interested in this project because of this <a href="http://www.qualcommtricorderxprize.org/">competition</a>.</p>
 <br />
+<b>Content-Aware Filling</b>
+<p>I will let this image explain what this means. Uses Graphical Models.</p>
+<img src = "downloads/content-aware-fill.jpg" />
+<br />
+<br />
 <b>Reinforcement Learning Challenges</b>
 <p>Solve a problem from the <a href="https://sites.google.com/a/rl-competition.org/2013/">ICML 2013 Reinforcement Learning competition</a>.</p>
 <br />
