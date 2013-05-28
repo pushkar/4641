@@ -89,6 +89,9 @@ $app_list = array (
     ),
     "http://www.youtube.com/watch?v=DleXA5ADG78" => array (
         "Brains, Sex, and Machine Learning" => "Geoffrey Hinton <a href=\"http://yann.lecun.com/ex/fun/\">(facts)</a> in GoogleTechTalks.",
+    ),
+    "http://www.youtube.com/watch?v=3liCbRZPrZA" => array (
+        "SVM with polynomial kernel visualization" => "Example from class",
     )
 );
 
