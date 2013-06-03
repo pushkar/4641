@@ -10,7 +10,7 @@ include "data.php";
 <h4>Supervised Learning</h4>
 <p>Due Jun 7, 2013</p>
 <p>The purpose of this project is to explore some techniques in supervised learning. It is important to realize that understanding an algorithm or technique requires understanding how it behaves under a variety of circumstances. As such, you will be asked to implement some simple learning algorithms (for sufficiently small values of implement), and to compare their performance.</p>
-<p>You have to explore these algorithms on two datasets. You have to find one dataset that is interesting (that is, interesting from the machine learning point of view) and then analyze it. This dataset should be a regression problem or a multivariate classification problem. For the second dataset you are given a binary classification problem (<a href="downloads/diabetes_train.txt">training set</a>, <a href="downloads/diabetes_test.txt">testing set</a>).</p>
+<p>You have to explore these algorithms on two datasets. You have to find one dataset that is interesting (that is, interesting from the machine learning point of view) and then analyze it. This dataset should be a regression problem or a multivariate classification problem. For the second dataset you are given a binary classification problem (<a href="downloads/diabetes_train.txt">training set</a>, <a href="downloads/diabetes_test.txt">testing set</a> or use the ARFF versions <a href="downloads/diabetes_train.arff">training set</a>, <a href="downloads/diabetes_test.arff">testing set</a> - These datasets are different. So mention in your assignment if you are using the ARFF version of the dataset.).</p>
 <p>You should implement five learning algorithms. They are for: </p>
 
 <ul>
