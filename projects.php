@@ -12,9 +12,43 @@ include "data.php";
 <h4>Deliverables</h4>
 <ul>
 <li>May 24: List of team members and a half page abstract that describes your project.</li>
-<li>Jun 14: A two page proposal describing your project, your hypothesis, experiments that you intend to run and a timeline.</li>
+<li>Jun 20: A two page proposal describing your project, your hypothesis, experiments that you intend to run and a timeline.</li>
+<li>Jun 20 - Jul 20: One on one discussions.</li>
+<li>Jul 20: Project Submissions.</li>
+<li>Jul 23: Project Presentations.</li>
 </ul>
+<hr />
+<h4>Current Projects</h4>
+<b>Team Translation - Example based machine translation</b>
+<p>Jordan Mayhue, Madeleine North</p>
 <br />
+<b>GO! - Learning to play GO</b>
+<p>Jihoon Lee, Alex Pennington</p>
+<br />
+<b>Skew - Yelp Dataset Challenge</b>
+<p>Pavel Komarov, Praveen Sanjay, David Wonderly</p>
+<br />
+<b>Smart Reaction - Supervised Learning regression for waster water treatment</b>
+<p>Ziyi Jiang, Xin Guo</p>
+<br />
+<b>IT's a TRAP - Stock Market Prediction</b>
+<p>Akbar Dhannani, Pritam Gautam, Byung Min</p>
+<br />
+<b>In Yo Face - Face Detection</b>
+<p>Madiha Iftikhar, Ore Asonibare</p>
+<br />
+<b>SubTLE - State Estimation for underwater vehicles</b>
+<p>Ilya Kovalenko, Ivan Dario Jimenez, Jay Cory Zuerndorfer, Thomas Ethan Brown</p>
+<br />
+<b>The Cluster Busters - Social Network Analysis</b>
+<p>Mary Lynn Buchanan, Cassidy Bellmor, and Jonathan Suit</p>
+<br />
+<b>Rich Uncle Pennybags - Stock Market Prediction from twitter feeds</b>
+<p>Ryan Cook, Hanuma Teja Maddali, Tyler Vaughn</p>
+<br />
+<b>ChefX - Recommender Systems for recipes</b>
+<p>Walker Argendeli</p>
+<hr />
 <h4>Project Suggestions</h4>
 <b>Yelp Dataset Challenge</b>
 <p>Predict ratings, user behavior from the Yelp dataset. More information is given on the <a href="http://www.yelp.com/dataset_challenge/">Yelp Dataset Challenge</a>.</p>

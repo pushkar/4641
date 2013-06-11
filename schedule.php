@@ -60,18 +60,14 @@ include "data.php";
               </ul>
               </td></tr>
               
-              <tr><td>Jun 6</td><td>Sampling and Bayesian Inference</td></tr>
+              <tr><td>Jun 6</td><td>Supervised Learning Review</td></tr>
               <tr><td>Jun 7</td><td><small><a href="assignment1.php">Assignment 1 due</a></small></td></tr>
               
               <tr><td>Jun 11</td><td>Midterm</td></tr>
               
               <tr><td>Jun 13</td><td>Midterm Review <small>(Drop Day on Jun 14)</small></td></tr>
               
-              <tr><td>Jun 18</td><td>Randomized Optimization
-              <ul>
-              <li>Mitchell Ch 9</li>
-              </ul>
-              </td></tr>
+              <tr><td>Jun 18</td><td>Sampling and Bayesian Inference</td></tr>
               
               <tr><td>Jun 20</td><td>Clustering
               <ul>
@@ -89,7 +85,6 @@ include "data.php";
               <tr><td>Jun 27</td><td>Feature selection</td></tr>
               
               <tr><td>Jul 2</td><td>Feature Transformation</td></tr>
-              <tr><td>Jul 3</td><td><small>Assignment 2 due</small></td></tr>
               
               <tr><td>Jul 4</td><td>Official School Holiday</td></tr>
               

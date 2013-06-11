@@ -7,6 +7,12 @@ include "data.php";
 
     <div class="container-fluid">
         <h2>Machine Learning</h2>
+        <h4>Updates</h4>
+        <small>Last Modified on June 11, 2013.</small>
+        <ul>
+          <li>Projects: Modified the timeline. Added current student projects.</li>
+        </ul>
+        <hr />
         <h4>Summer 2013</h4>
         <p>Machine Learning is that area of Artificial Intelligence that is concerned with computational artifacts that modify and improve their performance through experience. The area is concerned with issues both theoretical and practical. We will cover a variety of topics, including: statistical supervised and unsupervised learning methods, randomized search algorithms, Bayesian learning methods, and reinforcement learning. The course also covers theoretical concepts such as inductive bias, the PAC and Mistake-bound learning frameworks, minimum description length principle, and Occam's Razor. In order to ground these methods the course includes some programming and involvement in a number of projects.</p>
         <h4>Instructor</h4>
