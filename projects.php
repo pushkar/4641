@@ -12,7 +12,7 @@ include "data.php";
 <h4>Deliverables</h4>
 <ul>
 <li>May 24: List of team members and a half page abstract that describes your project.</li>
-<li>Jun 20: A two page proposal describing your project, your hypothesis, experiments that you intend to run and a timeline.</li>
+<li>Jun 22: A two page proposal describing your project, your hypothesis, experiments that you intend to run and a timeline.</li>
 <li>Jun 20 - Jul 20: One on one discussions.</li>
 <li>Jul 20: Project Submissions.</li>
 <li>Jul 23: Project Presentations.</li>
@@ -45,9 +45,6 @@ include "data.php";
 <br />
 <b>Rich Uncle Pennybags - Stock Market Prediction from twitter feeds</b>
 <p>Ryan Cook, Hanuma Teja Maddali, Tyler Vaughn</p>
-<br />
-<b>ChefX - Recommender Systems for recipes</b>
-<p>Walker Argendeli</p>
 <hr />
 <h4>Project Suggestions</h4>
 <b>Yelp Dataset Challenge</b>

@@ -11,6 +11,7 @@ include "data.php";
         <small>Last Modified on June 11, 2013.</small>
         <ul>
           <li>Projects: Modified the timeline. Added current student projects.</li>
+          <li>Projects: Submit proposals in t-square.</li>
         </ul>
         <hr />
         <h4>Summer 2013</h4>
