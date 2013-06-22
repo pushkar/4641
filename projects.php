@@ -45,6 +45,9 @@ include "data.php";
 <br />
 <b>Rich Uncle Pennybags - Stock Market Prediction from twitter feeds</b>
 <p>Ryan Cook, Hanuma Teja Maddali</p>
+<br />
+<b>IK Classify - Motion Segmentation in Computer Animation</b>
+<p>Alex Clegg</p>
 <hr />
 <h4>Project Suggestions</h4>
 <b>Yelp Dataset Challenge</b>
