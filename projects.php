@@ -23,7 +23,7 @@ include "data.php";
 <p>Jordan Mayhue, Madeleine North</p>
 <br />
 <b>GO! - Learning to play GO</b>
-<p>Jihoon Lee, Alex Pennington</p>
+<p>Jihoon Lee</p>
 <br />
 <b>Skew - Yelp Dataset Challenge</b>
 <p>Pavel Komarov, Praveen Sanjay, David Wonderly</p>
@@ -38,13 +38,13 @@ include "data.php";
 <p>Madiha Iftikhar, Ore Asonibare</p>
 <br />
 <b>SubTLE - State Estimation for underwater vehicles</b>
-<p>Ilya Kovalenko, Ivan Dario Jimenez, Jay Cory Zuerndorfer, Thomas Ethan Brown</p>
+<p>Ilya Kovalenko</p>
 <br />
 <b>The Cluster Busters - Social Network Analysis</b>
 <p>Mary Lynn Buchanan, Cassidy Bellmor, and Jonathan Suit</p>
 <br />
 <b>Rich Uncle Pennybags - Stock Market Prediction from twitter feeds</b>
-<p>Ryan Cook, Hanuma Teja Maddali, Tyler Vaughn</p>
+<p>Ryan Cook, Hanuma Teja Maddali</p>
 <hr />
 <h4>Project Suggestions</h4>
 <b>Yelp Dataset Challenge</b>
