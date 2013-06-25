@@ -79,29 +79,30 @@ include "data.php";
               <ul>
               <li><a href="http://www.cc.gatech.edu/~dellaert/em-paper.pdf">Intuitive Explanation of EM</a></li>
               <li><a href="downloads/em.pdf">Stastical View of EM</a></li>
+              <li><a href="http://machinelearning.wustl.edu/mlpapers/paper_files/LT17.pdf">Jon Kleinberg's Impossibility Theoreom for Clustering</a></li>
               </ul>
               </td></tr>
               
-              <tr><td>Jun 27</td><td>Feature selection</td></tr>
+              <tr><td>Jun 27</td><td>Markov Decision Processes</td></tr>
               
-              <tr><td>Jul 2</td><td>Feature Transformation</td></tr>
-              
-              <tr><td>Jul 4</td><td>Official School Holiday</td></tr>
-              
-              <tr><td>Jul 9</td><td>Markov Decision Processes</td></tr>
-              
-              <tr><td>Jul 11</td><td>Reinforcement Learning
+              <tr><td>Jul 2</td><td>Reinforcement Learning
               <ul>
               <li><a href="downloads/kaelbling96reinforcement.pdf">Reinforcement Learning: A Survey</a></li>
               <li><a href="http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html">Sutton and Barto</a> Ch 1-6</li>
               </ul>
               </td></tr>
               
-              <tr><td>Jul 16</td><td>Reinforcement Learning
+              <tr><td>Jul 4</td><td>Official School Holiday</td></tr>
+              
+              <tr><td>Jul 9</td><td>Reinforcement Learning
               <ul>
               <li><a href="downloads/Monte-Carlo_Tree_Search_-_A_New_Framework_for_Game_AI.pdf">Monte Carlo Tree Search</a></li>
               </ul>
               </td></tr>
+              
+              <tr><td>Jul 11</td><td>Reinforcement Learning</td></tr>
+              
+              <tr><td>Jul 16</td><td>Feature Transformation/Selection</td></tr>
               
               <tr><td>Jul 18</td><td>Game Theory
               <ul>
