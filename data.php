@@ -30,7 +30,7 @@ $textbook_req_list = array (
     "http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html" => array (
         "Tom Mitchell, Machine Learning. McGraw-Hill, 1997." => "",
     ),
-    "downloads/Alppaydin_MachineLearning_2010.pdf" => array (
+    "https://mitpress.mit.edu/books/introduction-machine-learning" => array (
         "Ethem Alpaydın, Introduction to Machine Learning. Second Edition." => "",
     )
 );
