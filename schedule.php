@@ -67,7 +67,11 @@ include "data.php";
               
               <tr><td>Jun 13</td><td>Midterm Review <small>(Drop Day on Jun 14)</small></td></tr>
               
-              <tr><td>Jun 18</td><td>Sampling and Bayesian Inference</td></tr>
+              <tr><td>Jun 18</td><td>Sampling and Bayesian Inference
+              <ul>
+              <li><a href="downloads/bayesian_inference.pdf">Jon's notes</a></li>
+              </ul>
+              </td></tr>
               
               <tr><td>Jun 20</td><td>Clustering
               <ul>

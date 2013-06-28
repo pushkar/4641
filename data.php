@@ -24,6 +24,9 @@ $reading_list = array (
     "Optimization" => array (
         "No Free Lunch Theoreom" => "downloads/nfl-optimization-explanation.pdf",
     ),
+    "Bayesian Inference" => array (
+        "Jon's notes on Bayesian Inference" => "downloads/bayesian_inference.pdf",
+    ),
 );
 
 $textbook_req_list = array (
