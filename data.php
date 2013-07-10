@@ -27,6 +27,9 @@ $reading_list = array (
     "Bayesian Inference" => array (
         "Jon's notes on Bayesian Inference" => "downloads/bayesian_inference.pdf",
     ),
+    "Markov Decision Processes" => array (
+        "Jon's MDP Intro slides" => "downloads/MDPIntro.pdf",
+    ),
 );
 
 $textbook_req_list = array (

@@ -100,6 +100,7 @@ include "data.php";
               
               <tr><td>Jul 9</td><td>Reinforcement Learning
               <ul>
+              <li><a href="downloads/MDPIntro.pdf">Jon's MDP Intro slides</a></li>
               <li><a href="downloads/Monte-Carlo_Tree_Search_-_A_New_Framework_for_Game_AI.pdf">Monte Carlo Tree Search</a></li>
               </ul>
               </td></tr>
