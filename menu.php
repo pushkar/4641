@@ -29,6 +29,7 @@ if($menu) {
               <li <? is_active($page, "reading"); ?>><a href="reading.php">Reading</a></li>
               <li <? is_active($page, "resources"); ?>><a href="resources.php">Resources</a></li>
               <li <? is_active($page, "assignment1"); ?>><a href="assignment1.php">Assignment 1</a></li>
+              <li <? is_active($page, "assignment2"); ?>><a href="assignment2/">Assignment 2</a></li>
               <li <? is_active($page, "projects"); ?>><a href="projects.php">Projects</a></li>
             </ul>
           </div><!--/.nav-collapse -->

@@ -17,6 +17,8 @@ include "data.php";
 <li>Jul 20: Project Submissions.</li>
 <li>Jul 23: Project Presentations.</li>
 </ul>
+<h4>What to submit?</h4>
+<p>Your final papers has to be written using the <a href="http://nips.cc/Conferences/2013/PaperInformation/StyleFiles"NIPS style</a>. If you have an implementation for the project that you want to share you should host it somewhere and submit the link. Project presentations will also be submitted. All documents will be submitted to t-square.</p>
 <hr />
 <h4>Current Projects</h4>
 <b>Team Translation - Example based machine translation</b>

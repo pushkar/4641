@@ -8,8 +8,9 @@ include "data.php";
     <div class="container-fluid">
         <h2>Machine Learning</h2>
         <h4>Updates</h4>
-        <small>Last Modified on June 11, 2013.</small>
+        <small>Last Modified on July 11, 2013.</small>
         <ul>
+          <li>Assignments: Added Assignment 2.</li>
           <li>Projects: Modified the timeline. Added current student projects.</li>
           <li>Projects: Submit proposals in t-square.</li>
         </ul>
