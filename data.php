@@ -30,6 +30,9 @@ $reading_list = array (
     "Markov Decision Processes" => array (
         "Jon's MDP Intro slides" => "downloads/MDPIntro.pdf",
     ),
+    "Dimensionality Reduction" => array (
+         "ICA: Algorithms and Applications"=> "http://mlsp.cs.cmu.edu/courses/fall2012/lectures/ICA_Hyvarinen.pdf",
+    ),
 );
 
 $textbook_req_list = array (
