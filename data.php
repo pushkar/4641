@@ -78,6 +78,9 @@ $software_list = array (
     "http://www.cc.gatech.edu/~dellaert/FrankDellaert/Software.html" => array (
         "MATLAB Clustering Package" => "By <a href=\"http://www.cc.gatech.edu/~dellaert/FrankDellaert/Frank_Dellaert/Frank_Dellaert.html\">Frank Dellaert</a>",
     ),
+    "http://www.robotvisions.org/4641/downloads/ica.tar.gz" => array (
+        "ICA Example" => "",
+    ),
 );
 
 $app_list = array (
