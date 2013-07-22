@@ -117,7 +117,7 @@ include "data.php";
               
               <tr><td>Jul 23</td><td>Project Presentations</td></tr>
               
-              <tr><td>Jul 26</td><td>Project Presentations <small>(Projects due on July 26)</small></td></tr>
+              <tr><td>Jul 26</td><td>Project Presentations <small>(Projects due on July 25)</small></td></tr>
               
               <tr><td>Jul 30</td><td>Finals</td></tr>
               </tbody>

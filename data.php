@@ -27,11 +27,22 @@ $reading_list = array (
     "Bayesian Inference" => array (
         "Jon's notes on Bayesian Inference" => "downloads/bayesian_inference.pdf",
     ),
-    "Markov Decision Processes" => array (
-        "Jon's MDP Intro slides" => "downloads/MDPIntro.pdf",
-    ),
     "Dimensionality Reduction" => array (
          "ICA: Algorithms and Applications"=> "http://mlsp.cs.cmu.edu/courses/fall2012/lectures/ICA_Hyvarinen.pdf",
+    ),
+    "Unsupervised Learning" => array (
+        "Intuitive Explanation of EM" => "http://www.cc.gatech.edu/~dellaert/em-paper.pdf",
+        "Stastical View of EM" => "http://localhost/4641/downloads/em.pdf",
+        "Jon Kleinberg's Impossibility Theoreom for Clustering" => "http://machinelearning.wustl.edu/mlpapers/paper_files/LT17.pdf",
+    ),
+    "Markov Decision Processes" => array (
+        "Jon's MDP Intro slides" => "downloads/MDPIntro.pdf",
+        "Richard Sutton and Andrew Barto, Reinforcement Learning: An introduction. MIT Press, 1998." => "http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html",
+        "Reinforcement Learning: A Survey" => "http://localhost/4641/downloads/kaelbling96reinforcement.pdf",
+    ),
+    "Game Theory" => array (
+        "Andrew Moore's slides on Zero-Sum games" => "http://www.autonlab.org/tutorials/gametheory.html",
+        "Andrew Moore's slides on Non-zero-Sum games" => "http://www.autonlab.org/tutorials/nonzerosum.html",
     ),
 );
 

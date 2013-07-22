@@ -14,8 +14,9 @@ include "data.php";
 <li>May 24: List of team members and a half page abstract that describes your project.</li>
 <li>Jun 22: A two page proposal describing your project, your hypothesis, experiments that you intend to run and a timeline.</li>
 <li>Jun 20 - Jul 20: One on one discussions.</li>
-<li>Jul 20: Project Submissions.</li>
-<li>Jul 23: Project Presentations.</li>
+<li>Jul 20: Informal Project Submissions.</li>
+<li>Jul 23: Project Presentations. Reviews due.</li>
+<li>Jul 25: Final Project Submissions.</li>
 </ul>
 <h4>What to submit?</h4>
 <p>Your final papers has to be written using the <a href="http://nips.cc/Conferences/2013/PaperInformation/StyleFiles">NIPS style</a>. If you have an implementation for the project that you want to share you should host it somewhere and submit the link. Project presentations will also be submitted. All documents will be submitted to t-square.</p>
@@ -25,22 +26,16 @@ include "data.php";
 <p>Jordan Mayhue, Madeleine North</p>
 <br />
 <b>GO! - Learning to play GO</b>
-<p>Jihoon Lee</p>
+<p>Jihoon Lee, Guozhu Zheng</p>
 <br />
 <b>Skew - Yelp Dataset Challenge</b>
 <p>Pavel Komarov, Praveen Sanjay, David Wonderly</p>
-<br />
-<b>Smart Reaction - Supervised Learning regression for waster water treatment</b>
-<p>Ziyi Jiang, Xin Guo</p>
 <br />
 <b>IT's a TRAP - Stock Market Prediction</b>
 <p>Akbar Dhannani, Pritam Gautam, Byung Min</p>
 <br />
 <b>In Yo Face - Face Detection</b>
-<p>Madiha Iftikhar, Ore Asonibare</p>
-<br />
-<b>SubTLE - State Estimation for underwater vehicles</b>
-<p>Ilya Kovalenko</p>
+<p>Madiha Iftikhar, Ore Asonibare, Ilya Kovalenko</p>
 <br />
 <b>The Cluster Busters - Social Network Analysis</b>
 <p>Mary Lynn Buchanan, Cassidy Bellmor, and Jonathan Suit</p>
