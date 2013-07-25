@@ -15,7 +15,7 @@ include "data.php";
 <li>Jun 22: A two page proposal describing your project, your hypothesis, experiments that you intend to run and a timeline.</li>
 <li>Jun 20 - Jul 20: One on one discussions.</li>
 <li>Jul 20: Informal Project Submissions.</li>
-<li>Jul 23: Project Presentations. Reviews due.</li>
+<li>Jul 23: Project Presentations. Reviews due (<a href="https://docs.google.com/forms/d/1STkI1igD6MgAV3xVrlNOy8ygR_PpRLy-LdUQaC77fR0/viewform">Presentation reviews</a>, <a href="https://docs.google.com/forms/d/1iRXhGBh6j9ILnZDE_F_1SlXxbaxGJq8uSzvR3qOjq-c/viewform">Team reviews</a>).</li>
 <li>Jul 25: Final Project Submissions.</li>
 </ul>
 <h4>What to submit?</h4>
