@@ -71,6 +71,9 @@ $software_list = array (
     "http://www.cs.waikato.ac.nz/ml/weka/" => array (
         "WEKA" => "Machine learning software in JAVA that you can use for your projects",
     ),
+    "https://weka.waikato.ac.nz/" => array (
+        "Data Mining with Weka" => "A MOOC Course",
+    ),
     "https://github.com/pushkar/ABAGAIL" => array (
         "ABAGAIL" => "Machine learning software in JAVA. This is hosted on my github, so you can contribute too",
     ),
