@@ -1,6 +1,6 @@
 <?php
 
-$reading_list = array ( 
+$reading_list = array (
     "Linear Algebra" => array (
         "Linear Algebra and Eigenproblems" => "downloads/Eigenproblems.fm.pdf",
     ),
@@ -32,13 +32,13 @@ $reading_list = array (
     ),
     "Unsupervised Learning" => array (
         "Intuitive Explanation of EM" => "http://www.cc.gatech.edu/~dellaert/em-paper.pdf",
-        "Stastical View of EM" => "http://localhost/4641/downloads/em.pdf",
+        "Stastical View of EM" => "downloads/em.pdf",
         "Jon Kleinberg's Impossibility Theoreom for Clustering" => "http://machinelearning.wustl.edu/mlpapers/paper_files/LT17.pdf",
     ),
     "Markov Decision Processes" => array (
         "Jon's MDP Intro slides" => "downloads/MDPIntro.pdf",
         "Richard Sutton and Andrew Barto, Reinforcement Learning: An introduction. MIT Press, 1998." => "http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html",
-        "Reinforcement Learning: A Survey" => "http://localhost/4641/downloads/kaelbling96reinforcement.pdf",
+        "Reinforcement Learning: A Survey" => "downloads/kaelbling96reinforcement.pdf",
     ),
     "Game Theory" => array (
         "Andrew Moore's slides on Zero-Sum games" => "http://www.autonlab.org/tutorials/gametheory.html",
